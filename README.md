@@ -1,3 +1,17 @@
+# Nama 	: Aprian Yudistyra
+# Nim 	: 201011400419
+# Kelas 	: 07TPLE007
+# UAS TESTING QA
+
+# Ket :
+1. Untuk Webnya ada di folder web beserta databasenya (sql).
+
+# Gambar,
+# 1. Automation
+<img width="960" alt="Screenshot_20231221_105018" src="https://github.com/Andyura/Automation/assets/138358832/2f964fe2-5576-4400-9e83-cdc92d678a21">
+
+
+
 # basic-automation
 
 
