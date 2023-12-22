@@ -5,6 +5,9 @@
 
 # Ket :
 1. Untuk Webnya ada di folder web beserta databasenya (sql).
+2. lokasi nya di http://localhost/Testing-QA/web/
+3. Jadi buat folder baru dengan Testing-QA dan letakan folder web di folder Testing-QA tersebut.
+4. Buka xampp, Selanjutnya letakkan folder tadi di xammp/htdocs/Testing-QA/web
 
 # Gambar,
 # 1. Automation
