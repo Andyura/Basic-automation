@@ -45,6 +45,16 @@ testcase-4
     Click Element     xpath://button[@type='submit']
     Close Browser 
     
+# delete post
+testcase-5
+    Login Success
+    Click Element     xpath://button[@type='submit' and contains(text(), 'Delete')]
+    Close Browser
+    
+testcase-6
+    Login Success
+    sleep     5s
+    Scroll Down Until End
 
 *** Keywords ***
 
