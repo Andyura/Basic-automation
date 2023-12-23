@@ -9,7 +9,7 @@
 3. Jadi buat folder baru dengan nama Testing-QA dan letakan folder web di folder Testing-QA tersebut.
 4. Buka xampp, Selanjutnya letakkan folder tadi di xammp/htdocs/Testing-QA/web
 5. Jalankan Xampp apache dan mysql dan buka di browser anda http://localhost/Testing-QA/web/
-6. Pastikan anda punya databasenya, untuk login, tambah data, delete, update
+6. Pastikan anda punya databasenya, untuk login, tambah data, delete, update. Jadi database sudah ada di misalnya phpMyAdmin. dan ada sudah mengkoneksikannya dengan php anda.
 
 # Gambar,
 # 1. Automation
